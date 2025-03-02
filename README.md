@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kkim-4
-- 👀 I’m interested in ML, Fullstack, and Data Science.
+- 👀 I’m interested in ML, SWE, and Data Science.
 - 🌱 I’m currently learning Pytorch and Tensorflow.
 - 💞️ I’m looking to collaborate on any projects esepcially ML related ones.
-- 📫 How to reach me: kevinkim0214@gmail.com or https://www.linkedin.com/in/kevin-kim4/
+- 📫 How to reach me: kevin.kim5@emory.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've done 9 years of organized singing (choir/acapella).
 
