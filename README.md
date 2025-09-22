@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Kevin Kim, a rising senior study Neuroscience and Computer Science at Emory University.
 - 👀 I’m interested in ML, SWE, and Data Science roles.
-- 🌱 I’m currently learning VLM and 
+- 🌱 I’m currently learning VLM, reinforcement learning models, and 2D sprite animation.
 - 💞️ I’m looking to collaborate on any projects esepcially ML related ones.
 - 📫 How to reach me: kevin.kim5@emory.edu
 - 😄 Pronouns: he/him
+- Portfolio website: https://kdkim.dev
 
 - Skills:
 Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C, C++
