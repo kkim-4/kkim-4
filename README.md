@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @kkim-4
-- 👀 I’m interested in ML, SWE, and Data Science.
-- 🌱 I’m currently learning Pytorch and Tensorflow.
+- 👋 Hi, I’m Kevin Kim, a rising senior study Neuroscience and Computer Science at Emory University.
+- 👀 I’m interested in ML, SWE, and Data Science roles.
+- 🌱 I’m currently learning VLM and 
 - 💞️ I’m looking to collaborate on any projects esepcially ML related ones.
 - 📫 How to reach me: kevin.kim5@emory.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've done 9 years of organized singing (choir/acapella).
+
+- Skills:
+Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C, C++
+Frameworks: React, Node.js, Pytorch, Prisma, Tensorflow, Expo, Prisma
+Developer Tools: Git, Docker, Linux, VS Code, Android Studio, Firebase, Vercel, Asperite, MongoDB, AWS, Kubernetes, GitHub Actions
+Libraries: pandas, NumPy, Matplotlib, scikit-learn, ChromaDB, JUnit, MaterialUI
 
 <!---
 kkim-4/kkim-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
