@@ -7,7 +7,7 @@
 - Portfolio website: https://kdkim.dev
 
 - Skills:
-Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C, C++
+Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C/C++
 Frameworks: React, Node.js, Pytorch, Prisma, Tensorflow, Expo, Prisma
 Developer Tools: Git, Docker, Linux, VS Code, Android Studio, Firebase, Vercel, Asperite, MongoDB, AWS, Kubernetes, GitHub Actions
 Libraries: pandas, NumPy, Matplotlib, scikit-learn, ChromaDB, JUnit, MaterialUI
