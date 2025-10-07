@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm currently interested in pursuing a career in computer science in fields such as Machine Learning where I can explore neural networks and generative model creation as an extension of pushing the boundaries of what I've learned about the brain when I studied neuroscience.
+- 👋 Hi, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm currently interested in pursuing a career in computer science in fields such as Machine Learning where I can explore neural networks and generative model creation as an extension of pushing the boundaries of what I've learned about the brain when I studied neuroscience and behavioral biology.
 - 👀 I’m interested in ML, SWE, and Data Science roles.
 - 🌱 I’m currently learning VLM, reinforcement learning models (q-learning models), and 2D sprite animation using Pixi.JS.
 - 💞️ I’m looking to collaborate on any projects esepcially ML related ones.
