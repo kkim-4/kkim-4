@@ -8,7 +8,7 @@
 
 - Skills:
 Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C/C++ 
-Frameworks: React/React Native, Node.js, PyTorch, Prisma, Tensorflow, Expo, Prisma 
+Frameworks: React/React Native, Node.js, PyTorch, Prisma, Tensorflow, Expo, Prisma
 Developer Tools: Git, Docker, Linux, VS Code, Android Studio, Firebase, Vercel, Asperite, MongoDB, AWS, Kubernetes, GitHub Actions, Auth0
 Libraries: pandas, NumPy, Matplotlib, scikit-learn, ChromaDB, JUnit, MaterialUI
 
