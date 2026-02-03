@@ -10,7 +10,7 @@
 Languages: Java, Python, SQL, PostgreSQL, JavaScript, HTML/CSS, R, Swift, C/C++
 Frameworks: React/React Native, Node.js, PyTorch, Prisma, Tensorflow, Expo, Prisma
 Developer Tools: Git, Docker, Linux, VS Code, Android Studio, Firebase, Vercel, Asperite, MongoDB, AWS, Kubernetes, GitHub Actions, Auth0
-Libraries: pandas, NumPy, Matplotlib, scikit-learn, ChromaDB, JUnit, MaterialUI
+Libraries: pandas, NumPy, sciPy, Matplotlib, scikit-learn, ChromaDB, JUnit, MaterialUI
 
 <!---
 kkim-4/kkim-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
