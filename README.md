@@ -3,7 +3,7 @@
 - I’m currently learning reinforcement learning models (q-learning models) and 2D sprite animation using Pixi.JS.
 - I’m looking to collaborate on any projects especially ML related ones.
 - How to reach me: kevin.kim5@emory.edu
-- Pronouns: he/him/his
+- Pronouns: he/him
 - Portfolio website: https://kdkim.dev
 
 Skills:
