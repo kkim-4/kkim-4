@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm currently planning to pursue graduate studies in Computer Science to further explore neural networks and transformer model design as an extension of pushing the boundaries of what I have learned about the brain when I studied neuroscience to work on continual learning models and affective computing systems.
 - I’m interested in MLE, SWE, Data Engineering, and more research oriented roles too.
 - I’m currently learning reinforcement learning models (q-learning models) and 2D sprite animation using Pixi.JS.
-- I’m looking to collaborate on any projects especially ML related ones. 
+- I’m looking to collaborate on any projects especially ML related ones.
 - How to reach me: kevin.kim5@emory.edu
 - Pronouns: he/him/his
 - Portfolio website: https://kdkim.dev
