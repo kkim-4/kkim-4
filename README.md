@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm currently planning to pursue graduate studies in Computer Science to further explore neural networks and transformer model design to push the boundaries of what I have learned about the brain when I studied neuroscience to work on improving LLM memory architecture and mechanistic interpretability to use SAE to find patterns in neurons in a neural network to identify patterns of behavior.
+- 👋 Hello, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm currently planning to pursue graduate studies in Computer Science to further explore neural networks and transformer model design to push the boundaries of what I have learned about the brain when I studied neuroscience to work on improving LLM memory architecture for long term memory and mechanistic interpretability.
 - I’m interested in MLE, SWE, Data Engineering, and ML research roles.
 - I’m currently learning reinforcement learning models (q-learning models) and 2D sprite animation using Pixi.JS.
 - I’m looking to collaborate on any project especially ML related ones.
