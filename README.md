@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Kevin Kim, a senior studying Neuroscience and Computer Science at Emory University. I'm an incoming MSCS student at UC San Diego seeking to further explore neural networks and transformer model design to push the boundaries of what I have learned about the brain that I studied neuroscience to work on improving LLM memory architecture for long term memory and on various projects on the topic of mechanistic interpretability.
+- 👋 Hello, I’m Kevin Kim. I studied Computer Science & Neuroscience and Behavioral Biology at Emory University. I'm an incoming MSCS student at UC San Diego seeking to further explore neural networks and transformer model design to push the boundaries of what I have learned about the brain that I studied neuroscience to work on improving LLM memory architecture for long term memory and on various projects on the topic of mechanistic interpretability.
 - I’m interested in MLE, SWE, Data Engineering, and various research roles.
 - I’m currently researching on Variational Bayes and State Spatial Models.
 - I’m looking to collaborate on any project especially ML related ones.
