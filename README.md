@@ -2,7 +2,7 @@
 - I’m interested in MLE, SWE, Data Engineering, and various research roles.
 - My current research work revolves around Variational Bayes and State Space Models.
 - I’m looking to collaborate on any project especially ML related ones.
-- How to reach me: kevin.kim5@emory.edu
+- How to reach me: kek018@ucsd.edu
 - Pronouns: he/him/his
 - Portfolio website: https://kdkim.dev
 
